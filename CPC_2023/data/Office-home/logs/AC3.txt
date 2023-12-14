@@ -1,0 +1,28 @@
+Source file= ./data/office-home/Art_uniform_noisy_0.4.txt, Target file= ./data/office-home/Clipart.txt. 
+start train...
+epoch=0, total_Loss=3.11, acc=25.20%
+epoch=1, total_Loss=1.78, acc=40.23%
+epoch=2, total_Loss=2.17, acc=40.89%
+epoch=3, total_Loss=1.32, acc=41.86%
+epoch=4, total_Loss=1.13, acc=43.51%
+epoch=5, total_Loss=1.65, acc=42.59%
+epoch=6, total_Loss=0.51, acc=41.74%
+epoch=7, total_Loss=0.86, acc=42.27%
+epoch=8, total_Loss=1.44, acc=42.25%
+epoch=9, total_Loss=0.75, acc=40.69%
+epoch=10, total_Loss=0.75, acc=40.69%
+Finish train
+After sample selection target acc 56.64 vs clean rate 0.7
+start train...
+epoch=0, total_Loss=2.67, acc=24.08%
+epoch=1, total_Loss=1.74, acc=37.21%
+epoch=2, total_Loss=1.60, acc=39.68%
+epoch=3, total_Loss=0.74, acc=38.83%
+epoch=4, total_Loss=1.85, acc=38.24%
+epoch=5, total_Loss=1.14, acc=41.76%
+epoch=6, total_Loss=0.79, acc=42.29%
+epoch=7, total_Loss=0.95, acc=43.10%
+epoch=8, total_Loss=0.80, acc=41.86%
+epoch=9, total_Loss=1.04, acc=42.96%
+epoch=10, total_Loss=1.04, acc=42.96%
+Finish train

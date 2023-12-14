@@ -1,0 +1,28 @@
+Source file= ./data/office-home/Product_uniform_noisy_0.4.txt, Target file= ./data/office-home/Art.txt. 
+start train...
+epoch=0, total_Loss=3.63, acc=36.63%
+epoch=1, total_Loss=1.49, acc=55.21%
+epoch=2, total_Loss=1.66, acc=57.40%
+epoch=3, total_Loss=0.65, acc=57.97%
+epoch=4, total_Loss=1.51, acc=59.54%
+epoch=5, total_Loss=0.87, acc=60.82%
+epoch=6, total_Loss=0.74, acc=60.24%
+epoch=7, total_Loss=1.17, acc=60.28%
+epoch=8, total_Loss=0.74, acc=60.36%
+epoch=9, total_Loss=0.20, acc=60.44%
+epoch=10, total_Loss=0.20, acc=60.44%
+Finish train
+After sample selection target acc 77.31 vs clean rate 0.7
+start train...
+epoch=0, total_Loss=3.34, acc=35.85%
+epoch=1, total_Loss=1.71, acc=55.25%
+epoch=2, total_Loss=1.78, acc=58.55%
+epoch=3, total_Loss=1.57, acc=58.22%
+epoch=4, total_Loss=0.77, acc=59.62%
+epoch=5, total_Loss=0.80, acc=59.74%
+epoch=6, total_Loss=0.97, acc=58.14%
+epoch=7, total_Loss=0.99, acc=59.62%
+epoch=8, total_Loss=0.63, acc=60.73%
+epoch=9, total_Loss=0.34, acc=61.52%
+epoch=10, total_Loss=0.34, acc=61.52%
+Finish train
