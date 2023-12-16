@@ -1,0 +1,58 @@
+Source file= ./data/office-home/Clipart_uniform_noisy_0.4.txt, Target file= ./data/office-home/Art.txt. 
+task: Clipart -> Art
+choose 100.00% samples, target acc 51.83%
+choose 100.00% samples, target acc 53.85%
+choose 100.00% samples, target acc 59.91%
+choose 100.00% samples, target acc 61.68%
+choose 100.00% samples, target acc 62.59%
+choose 100.00% samples, target acc 62.79%
+choose 100.00% samples, target acc 63.00%
+choose 100.00% samples, target acc 63.29%
+choose 100.00% samples, target acc 63.29%
+choose 100.00% samples, target acc 63.49%
+start train...
+epoch=0, total_Loss=3.95, acc=16.73%
+epoch=1, total_Loss=1.59, acc=52.49%
+epoch=2, total_Loss=1.81, acc=60.28%
+epoch=3, total_Loss=0.90, acc=60.44%
+epoch=4, total_Loss=0.66, acc=60.53%
+epoch=5, total_Loss=0.45, acc=62.38%
+epoch=6, total_Loss=0.36, acc=63.54%
+epoch=7, total_Loss=0.25, acc=62.51%
+epoch=8, total_Loss=0.80, acc=63.00%
+epoch=9, total_Loss=0.68, acc=62.92%
+epoch=10, total_Loss=0.68, acc=62.92%
+finish train
+After sample selection target acc 80.43 vs clean rate 0.7
+after switch a pair acc = 0.6349402554594149
+start train...
+epoch=0, total_Loss=3.95, acc=16.93%
+epoch=1, total_Loss=2.19, acc=53.36%
+epoch=2, total_Loss=1.31, acc=59.99%
+epoch=3, total_Loss=0.88, acc=59.83%
+epoch=4, total_Loss=0.68, acc=61.48%
+epoch=5, total_Loss=0.93, acc=62.83%
+epoch=6, total_Loss=0.67, acc=63.29%
+epoch=7, total_Loss=0.36, acc=63.25%
+epoch=8, total_Loss=0.91, acc=62.55%
+epoch=9, total_Loss=0.38, acc=62.63%
+epoch=10, total_Loss=0.38, acc=62.63%
+finish train
+After sample selection target acc 80.43 vs clean rate 0.7
+now class 21, vis 1
+after switch a pair acc = 0.6349402554594149
+task: Clipart -> Art
+choose 100.00% samples, target acc 62.59%
+start train...
+epoch=0, total_Loss=2.47, acc=61.64%
+epoch=1, total_Loss=0.46, acc=62.59%
+epoch=2, total_Loss=0.41, acc=63.45%
+epoch=3, total_Loss=0.31, acc=63.25%
+epoch=4, total_Loss=0.60, acc=63.16%
+epoch=5, total_Loss=0.53, acc=63.29%
+epoch=6, total_Loss=0.39, acc=63.25%
+epoch=7, total_Loss=0.28, acc=63.37%
+epoch=8, total_Loss=0.25, acc=63.41%
+epoch=9, total_Loss=0.12, acc=63.29%
+epoch=10, total_Loss=0.12, acc=63.29%
+finish train

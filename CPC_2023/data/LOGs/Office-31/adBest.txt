@@ -1,0 +1,206 @@
+choose 100.00% samples, target acc 80.52%
+choose 100.00% samples, target acc 84.54%
+choose 100.00% samples, target acc 86.35%
+choose 100.00% samples, target acc 87.15%
+start train...
+epoch=0, total_Loss=3.21, acc=10.04%
+epoch=1, total_Loss=1.35, acc=66.67%
+epoch=2, total_Loss=0.84, acc=80.72%
+epoch=3, total_Loss=0.84, acc=78.31%
+epoch=4, total_Loss=0.86, acc=80.52%
+epoch=5, total_Loss=0.47, acc=81.12%
+epoch=6, total_Loss=0.15, acc=80.32%
+epoch=7, total_Loss=0.26, acc=77.31%
+epoch=8, total_Loss=0.49, acc=80.12%
+epoch=9, total_Loss=0.25, acc=78.71%
+finish train
+After sample selection target acc 93.51 vs clean rate 0.8
+after switch a pair acc = 0.8835341365461847
+start train...
+epoch=0, total_Loss=3.13, acc=34.34%
+epoch=1, total_Loss=1.35, acc=82.13%
+epoch=2, total_Loss=0.53, acc=83.94%
+epoch=3, total_Loss=0.55, acc=87.95%
+epoch=4, total_Loss=0.43, acc=88.35%
+epoch=5, total_Loss=0.19, acc=86.35%
+epoch=6, total_Loss=0.12, acc=83.33%
+epoch=7, total_Loss=0.29, acc=88.35%
+epoch=8, total_Loss=0.02, acc=87.75%
+epoch=9, total_Loss=0.46, acc=87.75%
+finish train
+After sample selection target acc 95.84 vs clean rate 0.8
+now class 28, vis 1
+after switch a pair acc = 0.8975903614457831
+task: amazon -> dslr
+choose 100.00% samples, target acc 90.36%
+start train...
+epoch=0, total_Loss=1.29, acc=88.15%
+epoch=1, total_Loss=0.40, acc=89.76%
+epoch=2, total_Loss=0.34, acc=90.36%
+epoch=3, total_Loss=0.27, acc=89.56%
+epoch=4, total_Loss=0.06, acc=89.76%
+epoch=5, total_Loss=0.01, acc=89.76%
+epoch=6, total_Loss=0.03, acc=90.56%
+epoch=7, total_Loss=0.17, acc=89.96%
+epoch=8, total_Loss=0.06, acc=89.76%
+epoch=9, total_Loss=0.06, acc=89.56%
+finish train
+After sample selection target acc 95.85 vs clean rate 0.8
+now class 28, vis 2
+after switch a pair acc = 0.891566265060241
+task: amazon -> dslr
+choose 100.00% samples, target acc 90.56%
+start train...
+epoch=0, total_Loss=1.25, acc=89.56%
+epoch=1, total_Loss=0.22, acc=89.56%
+epoch=2, total_Loss=0.03, acc=89.16%
+epoch=3, total_Loss=0.28, acc=89.36%
+epoch=4, total_Loss=0.45, acc=88.76%
+epoch=5, total_Loss=0.21, acc=88.96%
+epoch=6, total_Loss=0.14, acc=89.16%
+epoch=7, total_Loss=0.01, acc=89.16%
+epoch=8, total_Loss=0.14, acc=89.36%
+epoch=9, total_Loss=0.08, acc=89.16%
+finish train
+After sample selection target acc 96.89 vs clean rate 0.8
+now class 16, vis 1
+now class 28, vis 2
+after switch a pair acc = 0.9036144578313253
+task: amazon -> dslr
+choose 100.00% samples, target acc 89.76%
+start train...
+epoch=0, total_Loss=1.08, acc=89.16%
+epoch=1, total_Loss=0.19, acc=90.16%
+epoch=2, total_Loss=0.03, acc=90.16%
+epoch=3, total_Loss=0.26, acc=90.36%
+epoch=4, total_Loss=0.17, acc=90.76%
+epoch=5, total_Loss=0.14, acc=90.56%
+epoch=6, total_Loss=0.05, acc=90.76%
+epoch=7, total_Loss=0.21, acc=89.76%
+epoch=8, total_Loss=0.01, acc=90.76%
+epoch=9, total_Loss=0.30, acc=90.56%
+finish train
+After sample selection target acc 96.37 vs clean rate 0.8
+now class 16, vis 1
+now class 20, vis 1
+now class 28, vis 2
+28 too much time, choose 23 instead
+after switch a pair acc = 0.8995983935742972
+task: amazon -> dslr
+choose 100.00% samples, target acc 90.36%
+start train...
+epoch=0, total_Loss=1.06, acc=90.56%
+epoch=1, total_Loss=0.37, acc=90.36%
+epoch=2, total_Loss=0.01, acc=89.76%
+epoch=3, total_Loss=0.17, acc=90.16%
+epoch=4, total_Loss=0.06, acc=89.96%
+epoch=5, total_Loss=0.00, acc=90.16%
+epoch=6, total_Loss=0.06, acc=90.16%
+epoch=7, total_Loss=0.01, acc=89.96%
+epoch=8, total_Loss=0.05, acc=90.16%
+epoch=9, total_Loss=0.05, acc=89.96%
+finish train
+After sample selection target acc 96.88 vs clean rate 0.8
+now class 16, vis 1
+now class 20, vis 1
+now class 28, vis 3
+after switch a pair acc = 0.9076305220883534
+task: amazon -> dslr
+choose 100.00% samples, target acc 90.96%
+start train...
+epoch=0, total_Loss=1.06, acc=89.76%
+epoch=1, total_Loss=0.12, acc=89.96%
+epoch=2, total_Loss=0.07, acc=90.36%
+epoch=3, total_Loss=0.06, acc=90.36%
+epoch=4, total_Loss=0.12, acc=90.76%
+epoch=5, total_Loss=0.02, acc=91.16%
+epoch=6, total_Loss=0.44, acc=90.96%
+epoch=7, total_Loss=0.15, acc=90.56%
+epoch=8, total_Loss=0.38, acc=90.76%
+epoch=9, total_Loss=0.20, acc=90.76%
+finish train
+After sample selection target acc 97.66 vs clean rate 0.8
+now class 16, vis 1
+now class 20, vis 1
+now class 28, vis 3
+now class 29, vis 1
+after switch a pair acc = 0.9156626506024096
+task: amazon -> dslr
+choose 100.00% samples, target acc 91.16%
+start train...
+epoch=0, total_Loss=0.80, acc=90.56%
+epoch=1, total_Loss=0.04, acc=91.16%
+epoch=2, total_Loss=0.08, acc=90.96%
+epoch=3, total_Loss=0.02, acc=91.16%
+epoch=4, total_Loss=0.22, acc=91.37%
+epoch=5, total_Loss=0.03, acc=91.57%
+epoch=6, total_Loss=0.01, acc=91.57%
+epoch=7, total_Loss=0.00, acc=91.57%
+epoch=8, total_Loss=0.02, acc=91.57%
+epoch=9, total_Loss=0.00, acc=91.57%
+finish train
+After sample selection target acc 97.16 vs clean rate 0.8
+now class 16, vis 2
+now class 20, vis 1
+now class 28, vis 3
+now class 29, vis 1
+after switch a pair acc = 0.9136546184738956
+task: amazon -> dslr
+choose 100.00% samples, target acc 91.97%
+start train...
+epoch=0, total_Loss=0.78, acc=90.96%
+epoch=1, total_Loss=0.08, acc=91.16%
+epoch=2, total_Loss=0.06, acc=90.76%
+epoch=3, total_Loss=0.10, acc=90.96%
+epoch=4, total_Loss=0.25, acc=91.16%
+epoch=5, total_Loss=0.01, acc=90.96%
+epoch=6, total_Loss=0.06, acc=91.16%
+epoch=7, total_Loss=0.31, acc=91.16%
+epoch=8, total_Loss=0.02, acc=91.16%
+epoch=9, total_Loss=0.09, acc=91.16%
+finish train
+After sample selection target acc 98.45 vs clean rate 0.8
+now class 16, vis 2
+now class 20, vis 1
+now class 23, vis 1
+now class 28, vis 3
+now class 29, vis 1
+28 too much time, choose 13 instead
+after switch a pair acc = 0.9216867469879518
+task: amazon -> dslr
+choose 100.00% samples, target acc 92.17%
+start train...
+epoch=0, total_Loss=0.65, acc=90.56%
+epoch=1, total_Loss=0.21, acc=91.77%
+epoch=2, total_Loss=0.01, acc=91.77%
+epoch=3, total_Loss=0.21, acc=91.97%
+epoch=4, total_Loss=0.02, acc=92.17%
+epoch=5, total_Loss=0.07, acc=92.17%
+epoch=6, total_Loss=0.22, acc=92.17%
+epoch=7, total_Loss=0.04, acc=92.17%
+epoch=8, total_Loss=0.03, acc=92.17%
+epoch=9, total_Loss=0.02, acc=92.17%
+finish train
+After sample selection target acc 98.45 vs clean rate 0.8
+now class 13, vis 1
+now class 16, vis 2
+now class 20, vis 1
+now class 23, vis 1
+now class 28, vis 3
+now class 29, vis 1
+16 too much time, choose 7 instead
+after switch a pair acc = 0.9317269076305221
+task: amazon -> dslr
+choose 100.00% samples, target acc 92.17%
+start train...
+epoch=0, total_Loss=0.86, acc=91.97%
+epoch=1, total_Loss=0.24, acc=92.17%
+epoch=2, total_Loss=0.30, acc=92.57%
+epoch=3, total_Loss=0.29, acc=92.97%
+epoch=4, total_Loss=0.09, acc=92.97%
+epoch=5, total_Loss=0.01, acc=92.97%
+epoch=6, total_Loss=0.06, acc=93.17%
+epoch=7, total_Loss=0.00, acc=93.17%
+epoch=8, total_Loss=0.06, acc=93.17%
+epoch=9, total_Loss=0.05, acc=93.17%
+finish train

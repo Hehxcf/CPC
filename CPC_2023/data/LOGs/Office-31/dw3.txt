@@ -1,0 +1,51 @@
+start train...
+epoch=0, total_Loss=3.09, acc=39.37%
+epoch=1, total_Loss=0.83, acc=91.45%
+epoch=2, total_Loss=0.47, acc=92.83%
+epoch=3, total_Loss=0.62, acc=93.84%
+epoch=4, total_Loss=0.44, acc=93.33%
+epoch=5, total_Loss=0.27, acc=93.96%
+epoch=6, total_Loss=0.41, acc=94.09%
+epoch=7, total_Loss=0.22, acc=93.33%
+epoch=8, total_Loss=0.16, acc=93.58%
+epoch=9, total_Loss=0.28, acc=91.32%
+epoch=10, total_Loss=0.13, acc=91.95%
+epoch=11, total_Loss=0.18, acc=92.96%
+epoch=12, total_Loss=0.07, acc=93.71%
+epoch=13, total_Loss=0.15, acc=92.58%
+epoch=14, total_Loss=0.06, acc=93.96%
+finish train
+start train...
+epoch=0, total_Loss=3.06, acc=47.92%
+epoch=1, total_Loss=1.37, acc=86.54%
+epoch=2, total_Loss=0.51, acc=88.43%
+epoch=3, total_Loss=0.13, acc=93.33%
+epoch=4, total_Loss=0.10, acc=94.34%
+epoch=5, total_Loss=0.48, acc=92.45%
+epoch=6, total_Loss=0.24, acc=91.57%
+epoch=7, total_Loss=0.17, acc=94.21%
+epoch=8, total_Loss=0.28, acc=92.96%
+epoch=9, total_Loss=0.17, acc=93.84%
+epoch=10, total_Loss=0.23, acc=93.08%
+epoch=11, total_Loss=0.56, acc=93.08%
+epoch=12, total_Loss=0.22, acc=93.96%
+epoch=13, total_Loss=0.15, acc=92.83%
+epoch=14, total_Loss=0.20, acc=93.58%
+finish train
+start train...
+epoch=0, total_Loss=1.06, acc=94.34%
+epoch=1, total_Loss=0.01, acc=93.71%
+epoch=2, total_Loss=0.02, acc=95.60%
+epoch=3, total_Loss=0.02, acc=94.72%
+epoch=4, total_Loss=0.29, acc=94.59%
+epoch=5, total_Loss=0.12, acc=93.96%
+epoch=6, total_Loss=0.10, acc=94.21%
+epoch=7, total_Loss=0.02, acc=94.21%
+epoch=8, total_Loss=0.23, acc=95.09%
+epoch=9, total_Loss=0.08, acc=95.72%
+epoch=10, total_Loss=0.00, acc=95.35%
+epoch=11, total_Loss=0.03, acc=95.35%
+epoch=12, total_Loss=0.12, acc=95.60%
+epoch=13, total_Loss=0.03, acc=95.35%
+epoch=14, total_Loss=0.10, acc=95.35%
+finish train
