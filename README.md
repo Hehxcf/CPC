@@ -49,13 +49,13 @@ Office-31, Office-home, Bing-Caltech. Please download the dataset first. Then, m
 
 ## Training
 
-For Office-31 dataset,
+For Office-home and Office-31 dataset,
 
 Example:
 
 ```shell
 CUDA_VISIBLE_DEVICES=0 python main.py --noisy_rate 0.4 --noisy_type uniform --dataset Office-31 --source amazon --target dslr --train_epochs 10 --lr 0.001 --loop_prototype 5 --swap_epochs 5 --clean_rate 0.9
-
+CUDA_VISIBLE_DEVICES=0 python main.py --noisy_rate 0.4 --noisy_type uniform --dataset office-home --source Art --target Real_world --train_epochs 10 --lr 0.0003 --loop_prototype 10 --swap_epochs 2 --clean_rate 0.7
 ```
 
 
